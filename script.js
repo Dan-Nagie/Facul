@@ -1,5 +1,6 @@
 function sim(){
     alert("Obrigado Professor Pelos Pontos!")
+    location.href = "https://www.youtube.com/watch?v=RXKabdUBiWM";
 }
 
 function desvia(t){
